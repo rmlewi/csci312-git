@@ -1,0 +1,1 @@
+This repository houses materials I share with the CSCI 312 class.
